@@ -1,0 +1,16 @@
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\dataset\iris.csv
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\FYEDataAccessService.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\FYEDataAccessService.pdb
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\MachineLearning.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Neuro.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Genetic.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Math.dll
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\MachineLearning.pdb
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Neuro.xml
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Genetic.xml
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.xml
+F:\FCE\FYEService\FYEDataAccessService\bin\Release\AForge.Math.xml
+F:\FCE\FYEService\FYEDataAccessService\obj\Release\FYEDataAccessService.csprojResolveAssemblyReference.cache
+F:\FCE\FYEService\FYEDataAccessService\obj\Release\FYEDataAccessService.dll
+F:\FCE\FYEService\FYEDataAccessService\obj\Release\FYEDataAccessService.pdb

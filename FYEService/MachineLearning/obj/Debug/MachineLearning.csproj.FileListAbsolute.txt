@@ -1,0 +1,44 @@
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe.config
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.pdb
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.dll
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Genetic.dll
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Math.dll
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Neuro.dll
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.xml
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Genetic.xml
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Math.xml
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\bin\Debug\AForge.Neuro.xml
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csprojResolveAssemblyReference.cache
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.exe
+c:\users\v-acsaxe\documents\visual studio 2015\Projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.pdb
+E:\projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe.config
+E:\projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.exe
+E:\projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.pdb
+E:\projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.exe
+E:\projects\MachineLearning\MachineLearning\bin\Debug\MachineLearning.pdb
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.dll
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Genetic.dll
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Math.dll
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Neuro.dll
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.xml
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Genetic.xml
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Math.xml
+E:\projects\MachineLearning\MachineLearning\bin\Debug\AForge.Neuro.xml
+E:\projects\MachineLearning\MachineLearning\obj\Debug\MachineLearning.csprojResolveAssemblyReference.cache
+E:\projects\MachineLearning\MachineLearning\bin\Debug\dataset\iris.csv
+F:\FCE\FYEService\MachineLearning\bin\Debug\dataset\iris.csv
+F:\FCE\FYEService\MachineLearning\bin\Debug\MachineLearning.dll.config
+F:\FCE\FYEService\MachineLearning\bin\Debug\MachineLearning.dll
+F:\FCE\FYEService\MachineLearning\bin\Debug\MachineLearning.pdb
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.dll
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Genetic.dll
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Math.dll
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Neuro.dll
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.xml
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Genetic.xml
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Math.xml
+F:\FCE\FYEService\MachineLearning\bin\Debug\AForge.Neuro.xml
+F:\FCE\FYEService\MachineLearning\obj\Debug\MachineLearning.dll
+F:\FCE\FYEService\MachineLearning\obj\Debug\MachineLearning.pdb
+F:\FCE\FYEService\MachineLearning\obj\Debug\MachineLearning.csprojResolveAssemblyReference.cache

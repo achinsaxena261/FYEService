@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYEService", "FYEService\FYEService.csproj", "{8208954F-AB38-478B-B560-F6E7C890D0B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYEDataAccessService", "FYEDataAccessService\FYEDataAccessService.csproj", "{62BDE4F9-2D2E-447A-BB71-50CE49F74660}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{F9F803D3-622B-4155-BD4D-01C7B8FB46AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetworks", "NeuralNetworks\NeuralNetworks.csproj", "{636E8C3A-504D-4997-B3A4-ED270DE7B6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8208954F-AB38-478B-B560-F6E7C890D0B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8208954F-AB38-478B-B560-F6E7C890D0B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8208954F-AB38-478B-B560-F6E7C890D0B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8208954F-AB38-478B-B560-F6E7C890D0B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BDE4F9-2D2E-447A-BB71-50CE49F74660}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BDE4F9-2D2E-447A-BB71-50CE49F74660}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BDE4F9-2D2E-447A-BB71-50CE49F74660}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BDE4F9-2D2E-447A-BB71-50CE49F74660}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9F803D3-622B-4155-BD4D-01C7B8FB46AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9F803D3-622B-4155-BD4D-01C7B8FB46AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9F803D3-622B-4155-BD4D-01C7B8FB46AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9F803D3-622B-4155-BD4D-01C7B8FB46AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{636E8C3A-504D-4997-B3A4-ED270DE7B6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{636E8C3A-504D-4997-B3A4-ED270DE7B6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{636E8C3A-504D-4997-B3A4-ED270DE7B6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{636E8C3A-504D-4997-B3A4-ED270DE7B6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+E:\projects\MachineLearning\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config
+E:\projects\MachineLearning\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+E:\projects\MachineLearning\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+E:\projects\MachineLearning\NeuralNetworks\obj\Debug\NeuralNetworks.exe
+E:\projects\MachineLearning\NeuralNetworks\obj\Debug\NeuralNetworks.pdb
+F:\FCE\FYEService\NeuralNetworks\bin\Debug\NeuralNetworks.exe.config
+F:\FCE\FYEService\NeuralNetworks\bin\Debug\NeuralNetworks.exe
+F:\FCE\FYEService\NeuralNetworks\bin\Debug\NeuralNetworks.pdb
+F:\FCE\FYEService\NeuralNetworks\obj\Debug\NeuralNetworks.csprojResolveAssemblyReference.cache
+F:\FCE\FYEService\NeuralNetworks\obj\Debug\NeuralNetworks.exe
+F:\FCE\FYEService\NeuralNetworks\obj\Debug\NeuralNetworks.pdb

@@ -1,0 +1,14 @@
+F:\FCE\FYEService\MachineLearning\bin\Release\dataset\iris.csv
+F:\FCE\FYEService\MachineLearning\bin\Release\MachineLearning.dll.config
+F:\FCE\FYEService\MachineLearning\bin\Release\MachineLearning.dll
+F:\FCE\FYEService\MachineLearning\bin\Release\MachineLearning.pdb
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.dll
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Genetic.dll
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Math.dll
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Neuro.dll
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.xml
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Genetic.xml
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Math.xml
+F:\FCE\FYEService\MachineLearning\bin\Release\AForge.Neuro.xml
+F:\FCE\FYEService\MachineLearning\obj\Release\MachineLearning.dll
+F:\FCE\FYEService\MachineLearning\obj\Release\MachineLearning.pdb
